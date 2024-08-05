@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 #
 <h3 align="left">Support Me</h3>
 
-[Donate](https://www.paypal.com/paypalme/faniadittiya)
-
-[Telegram](https://t.me/modulkuntul)
-
-[Website](https://bento.me/illumi)
+[Donate](https://www.paypal.com/paypalme/faniadittiya) | [Telegram](https://t.me/modulkuntul) | [Website](https://bento.me/illumi)
 
 #
