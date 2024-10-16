@@ -6,8 +6,7 @@
 <h3 align="center">A passionate software developer from the Dark continent 💀</h3>
 
 ![Logo](https://github.com/illumi666ya/illumi666ya/blob/main/Logo.jpg?raw=true)
-<h3 align="center"> This world is very dark, but in heaven there is no darkness.
-<hr/>
+<h5 align="center"> This world is very dark, but in heaven there is no darkness. <hr/>
 
 ###
 <div align="center">
