@@ -10,7 +10,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 TITID TITID TAN 🐍</h2>
   <br>
   
 ![snake_gif](https://github.com/illumi666ya/illumi666ya/blob/output/only-svg/github-contribution-grid-snake-dark.svg)
@@ -20,7 +20,7 @@
 
 <hr/>
 
+<div align=center>
+  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=illumi666ya&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
 
-[![DEMONIC's GitHub stats](https://github-readme-stats.vercel.app/api?username=illumi666ya&show_icons=true&theme=nightowl)](https://github.com/illumi666ya/github-readme-stats)
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=illumi666ya&theme=nightowl" width="423">
+<img width=423 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=illumi666ya&count_private=true&theme=nightowl&border_radius=10" alt="streak stats"/>
