@@ -5,7 +5,6 @@
 </h1>
 <h3 align="center">A passionate software developer from the Dark continent 🏴‍☠️</h3>
 <br/>
-![image](https://github.com/user-attachments/assets/d0520456-0207-47ec-b7af-50ec59a148fd)
 <hr/>
 
 ###
