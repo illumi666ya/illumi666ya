@@ -19,4 +19,8 @@
 </div>
 
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api?username=illumi666ya&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&layout=compact" alt="GitHub Stats for DEMONIC" width="400">  <img src="https://github-readme-streak-stats.herokuapp.com?user=illumi666ya&theme=nightowl" width="423">
+
+
+[![DEMONIC's GitHub stats](https://github-readme-stats.vercel.app/api?username=illumi666ya&show_icons=true&theme=nightowl)](https://github.com/illumi666ya/github-readme-stats)
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=illumi666ya&theme=nightowl" width="423">
