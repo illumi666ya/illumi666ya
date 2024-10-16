@@ -28,3 +28,12 @@
 <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=illumi666ya&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
 <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=illumi666ya&count_private=true&theme=nightowl&border_radius=10" alt="streak stats"/>
 <br/>
+
+###
+<hr/>
+<br/>
+<div align="center">
+<a href='https://ko-fi.com/illumi666' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
