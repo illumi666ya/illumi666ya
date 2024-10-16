@@ -1,12 +1,9 @@
 ###
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=illumi666ya.illumi666ya" />
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=10/00&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ILLUMI!;" />
 </h1>
-
 <h3 align="center">A passionate software developer from the Dark continent 🏴‍☠️</h3>
-
 <br/>
 <hr/>
 
@@ -29,6 +26,10 @@
 <hr/>
 <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=illumi666ya&count_private=true&theme=nightowl&border_radius=10" alt="streak stats"/>
 <br/>
+<hr/>
+<img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=illumi666ya&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<br/><br/>
 
 ###
 <hr/>
