@@ -10,11 +10,9 @@
 ###
 <div align="center">
 <h2>🐍 TITID TITID TAN 🐍</h2>
-<br>
-  
+
 ![snake_gif](https://github.com/illumi666ya/illumi666ya/blob/output/only-svg/github-contribution-grid-snake-dark.svg)
 
-<br/><br/><br/>
 </div>
 <hr/>
 
@@ -36,4 +34,3 @@
 <div align="center">
 <a href='https://ko-fi.com/illumi666' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
-<br/>
